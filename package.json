@@ -1,0 +1,6 @@
+{
+  "name": "com.safadedeakay.folder-creator",
+  "version": "0.0.1",
+  "displayName": "Folder Creator",
+  "description": "A folder creator that helps us create default folders while setting up the project"
+}
